@@ -93,4 +93,4 @@ HOTKEYS
 
 Note
 ----
-Not all hotkeys work between Spotify, iTunes, Winamp, foobar2000, and VLC.
+Not all hotkeys work between Spotify, iTunes, Winamp, foobar2000, and VLC
